@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Sofia", sans-serif;
+}
+body{
+    background-image: linear-gradient(skyblue 30% ,aquamarine 50% ,darkseagreen 100%);
+}
+img{
+    width:400px;
+    height: 400px;
+    border: 5px double green;
+    padding:20px;
+}
